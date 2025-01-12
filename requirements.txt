@@ -1,0 +1,8 @@
+gradio 
+requests 
+folium 
+pandas 
+numpy 
+branca
+plotly
+pillow
